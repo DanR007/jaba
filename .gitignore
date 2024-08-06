@@ -1,0 +1,5 @@
+*/.vscode/
+*/build/
+*/private_key.pem
+*/public_key
+server/keys/

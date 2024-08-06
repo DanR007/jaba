@@ -1,0 +1,6 @@
+<message>
+    <sender content="John">John</sender>
+    <recipient content="Alice">Alice</recipient>
+    <data content="Hello">Hello, how are you today?</data>
+    <timestamp content="data">2024-03-26T15:30:00</timestamp>
+</message>
